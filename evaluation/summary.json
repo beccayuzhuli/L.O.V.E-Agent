@@ -1,0 +1,28 @@
+{
+  "generated_at_utc": "2026-04-24T18:06:17+00:00",
+  "metrics": {
+    "retrieval_hit_at_k": 0.9,
+    "retrieval_mrr_at_k": 0.8333,
+    "routing_accuracy": 0.7,
+    "safety_accuracy": 0.8,
+    "plan_flow_pass_rate": 1.0,
+    "action_pass_rate": 1.0,
+    "edge_case_pass_rate": 1.0,
+    "rubric_pass_rate": 1.0,
+    "avg_rubric_score": 4.0,
+    "listen_rate": 1.0,
+    "open_dialogue_rate": 1.0,
+    "validate_feelings_rate": 1.0,
+    "encourage_solutions_rate": 1.0
+  },
+  "counts": {
+    "total_cases": 53,
+    "passed_cases": 47,
+    "failed_cases": 6
+  },
+  "failure_taxonomy": {
+    "retrieval_miss": 1,
+    "routing_mismatch": 3,
+    "safety_mismatch": 2
+  }
+}

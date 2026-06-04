@@ -1,0 +1,16 @@
+# L.O.V.E. Relationship Support Agent — Dependencies
+# RSM 8430 Group 18
+
+# RAG / Embeddings
+chromadb>=0.4.0
+openai>=1.0.0
+pandas>=2.0.0
+
+# LLM client
+requests>=2.28.0
+
+# App
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+torchvision
