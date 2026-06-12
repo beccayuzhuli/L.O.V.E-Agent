@@ -2,8 +2,6 @@
 
 **Listen · Open Dialogue · Validate Feelings · Encourage Solutions**
 
-RSM 8430 — Applications of Large Language Models | Group 18
-
 ---
 
 ## What This Is
